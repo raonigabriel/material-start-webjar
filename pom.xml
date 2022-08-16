@@ -43,8 +43,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<src.dir>app</src.dir>
-		<angular.version>1.5.8</angular.version>
-		<angular.material.version>1.1.0</angular.material.version>
+		<angular.version>1.8.3</angular.version>
+		<angular.material.version>1.2.5</angular.material.version>
 	</properties>
 
 	<dependencies>
